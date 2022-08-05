@@ -1,0 +1,2 @@
+How is string immutable in Java?
+The string is immutable means that we cannot change the object itself, but we can change the reference to the object. The string is made final to not allow others to extend it and destroy its immutability.
